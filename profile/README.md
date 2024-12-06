@@ -12,10 +12,6 @@ Welcome to the official repository of Radical. We are building foundational AI m
 
 ## Getting Started
 
-### Prerequisites
-
-- [List any prerequisites such as specific tools, frameworks, or versions needed to work with your project]
-
 Contributing
 
 We welcome contributions from organisation members! Please read our Contributing Guidelines to get started.
