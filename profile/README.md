@@ -10,10 +10,6 @@ Welcome to the official repository of Radical. We are building foundational AI m
 - [License](#license)
 - [Contact](#contact)
 
-## About
-
-Radical is dedicated to [describe your mission or the problem you're solving]. Our goal is to [state your goals or vision]. This project is developed using [mention key technologies or frameworks used].
-
 ## Getting Started
 
 ### Prerequisites
@@ -33,5 +29,4 @@ Contact
 For any questions, feel free to reach out:
 
 	•	Email: gediminas@radicalhealth.ai, bryan@radicalhealth.ai
-	•	Twitter: [your Twitter handle]
-	•	Website: [your startup’s website]
+	•	Website: radicalhealth.ai
