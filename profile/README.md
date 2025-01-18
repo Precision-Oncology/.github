@@ -24,5 +24,5 @@ This project does not include a license file. Legally, this means no one else as
 
 For any questions, feel free to reach out:
 
-	•	Email: gediminas@radicalhealth.ai, bryan@radicalhealth.ai
+	•	Email: bryan@radicalhealth.ai
 	•	Website: radicalhealth.ai
